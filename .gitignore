@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Models (too large)
+*.h5
+*.keras
+*.tflite
+
+# Data
+data/
+*.zip
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
