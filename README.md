@@ -2,7 +2,7 @@
 
 Deep Learning model for automated plant disease detection using EfficientNetB3 and Transfer Learning.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-59K23KwKiuPCitViGDBu7cnjan4vXln?usp=sharing)
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
 
