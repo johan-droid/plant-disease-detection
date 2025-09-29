@@ -160,6 +160,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 ## 📧 Contact
 
 **Your Name**
+- GitHub: [@johan-droid](https://github.com/johan-droid)
 - Email: sahooashutosh2022@gmail.com
 ---
 
